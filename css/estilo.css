@@ -17,6 +17,7 @@ body{
 
 	header{
 		grid-area: logo;
+		background-color: orangered;
 	}
 	section.nav-nav{
 		grid-area: nav;
